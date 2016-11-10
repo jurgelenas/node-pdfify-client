@@ -1,0 +1,27 @@
+{
+  "name": "node-pdfify-client",
+  "description": "PDFify Node.js client. Convert HTML to PDF",
+  "author": "Julius Jurgelėnas <julius@jurgelenas.lt>",
+  "version": "1.0.0",
+  "keywords": [
+    "pdf",
+    "html",
+    "html to pdf",
+    "html 2 pdf",
+    "tools"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jurgelenas/node-pdfify-client.git"
+  },
+  "bugs": {
+    "url": "http://github.com/jurgelenas/node-pdfify-client/issues"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">= 7"
+  },
+  "dependencies": {
+    "request": "2.78.0"
+  }
+}
