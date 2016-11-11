@@ -14,9 +14,9 @@ npm install --save pdfify-client
 
 # Usage
 
-PDFify client exposes only one method ```convert(options)```. It returns Promise.
+PDFify client exposes only one method ```convert(params)```.
 
-You can view available ```options``` fields in PDFify server 
+You can view available ```params``` in PDFify  
 [Readme.md Parameters section](https://www.github.com/jurgelenas/pdfify-server/Readme.md#parameters)
 
 
